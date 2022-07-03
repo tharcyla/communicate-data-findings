@@ -49,8 +49,8 @@ From this section, I included in my presentation the line plot of average trip d
 
 ## Key Insights for Presentation
 
-For the presentation, I focused on what factors influence trip duration. I'll start the presentation with the histogram for the trip duration distribution given its importance to this project.
+For the presentation, I focused on what factors influence trip duration. I started the presentation with a histogram for the trip duration distribution given its importance to this project. From this plot, we can see that most trips take between 300 and 1000 seconds, i.e., between 5 and 15 minutes.
 
-Then, I move on to a heat map illustrating the relationship between trip duration and age, given that analysis showed that most of the trips were taken by people in their 20s to 40s. The plot also shows that most of the trips in that age bracket (in the whole dataset, really), are trips with less than 1,000 seconds (around 15 minutes).
+Then, I moved on to a heat map illustrating the relationship between trip duration and age, given that analysis showed that most of the trips were taken by people in their 20s to 40s. The plot also showed that most of the trips in that age bracket are trips with less than 1,000 seconds (around 15 minutes).
 
-I finish the presentation with the line plot of average trip duration by hour, for every gender. This visualization was chosen since this single plot encapsulate a lot of the insights I've found throughout the exploration of this dataset. 
+I finished the presentation with a line plot of the average trip duration by hour, for every gender. In this plot, we can see that non-binary people enjoy longer trips during the earlier hours of the day (from 1 a.m. to 4 a.m.), with smaller peaks at other times of the day. In addition to that, there is also a modest peak from females during the same time period. This might suggest they'd rather grab a bike after a night out than walking home, but that assertion would require further investigation. During the rest of the day, their average trip duration is somewhat stable, with an increase from late morning to late afternoon. Finally, males also present an even smaller peak during the same time period, but for the most part, their average trip duration remains more or less stable during the whole day.
